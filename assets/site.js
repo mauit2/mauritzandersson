@@ -7,7 +7,7 @@
  * Replace the placeholder with your GA4 Measurement ID (e.g. G-AB12CD34EF).
  * While it is the placeholder, Analytics is off and no banner is shown.
  */
-const GA_MEASUREMENT_ID = 'G-XXXXXXXXXX';
+const GA_MEASUREMENT_ID = 'G-9B8PCD69CD';
 
 (() => {
   'use strict';
